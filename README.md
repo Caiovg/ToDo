@@ -41,6 +41,17 @@ Ou seja, o App ajuda o João a lembrar de seus compromissos. ❤️
 -   [x] Expo Google Fonts
 -   [x] React Native Gesture Handler
 
+## 🛢 BackEnd
+
+*Antes de rodar o App ou a versão Web baixe a base de dados.*
+* [BackEnd_ToDo](https://github.com/Caiovg/ToDo_back.git)
+
+
+## 🖥 Versão Web
+
+* [Web_ToDo](https://github.com/Caiovg/ToDo_web.git)
+
+
 ## 💻 Executando o projeto
 
 ### Requisitos
